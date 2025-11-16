@@ -280,3 +280,8 @@ Wanna hide the logo? Simply pass an empty string as the logo.
 
 изз - starting working on a similar project in the glazewm discord, prompted me
 to get started on the work.
+
+# License
+
+All changes from the [upstream repository](https://github.com/adriankarlen/textfox) are licensed according to the `LICENSE.txt` file.
+All code inherited from the upstream repository are LICENSED separately (see upstream or git history for said license).
